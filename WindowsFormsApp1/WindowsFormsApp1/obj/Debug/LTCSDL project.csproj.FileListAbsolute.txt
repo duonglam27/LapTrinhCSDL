@@ -1,0 +1,10 @@
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LTCSDL project.csproj.AssemblyReference.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LTCSDL project.csproj.GenerateResource.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LTCSDL project.csproj.CoreCompileInputs.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\LapTrinhCSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
